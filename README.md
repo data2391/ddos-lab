@@ -8,7 +8,7 @@
 
 ```bash
 # Sur la machine cible
-git clone https://github.com/votre-pseudo/ddos-lab.git
+git clone https://github.com/data2391/ddos-lab.git
 cd ddos-lab
 python3 server/simple-server.py 8000
 
